@@ -14,14 +14,19 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 * [Set the API key](https://docs.echoar.xyz/react-native/) in the `App.js script` inside.
 * Build and run the AR application
 ### Android
-** For Android, make sure you have downloaded the Android SDK and platform-tools for building apps.
-** Set the environment variable $ANDROID_HOME and added platform-tools to $PATH variable. In Linux/Mac:
-    ```
-    export ANDROID_HOME=/YOUR_PATH_TO/Android/sdk
-    export PATH=$ANDROID_HOME/platform-tools:$PATH
-    export PATH=$ANDROID_HOME/tools:$PATH
-    ```
-In Widows, Right-click the Computer icon and choose Properties, or in Windows Control Panel, choose System. Choose Advanced system settings. On the Advanced tab, click Environment Variables. Click New to create a new environment variable. Click Edit to modify an existing environment variable. After creating or modifying the environment variable, click Apply and then OK to have the change take effect.
+* For Android, make sure you have downloaded the Android SDK and platform-tools for building apps.
+* Set the environment variable $ANDROID_HOME and added platform-tools to $PATH variable.
+
+In Linux/Mac:
+```
+export ANDROID_HOME=/YOUR_PATH_TO/Android/sdk
+export PATH=$ANDROID_HOME/platform-tools:$PATH
+export PATH=$ANDROID_HOME/tools:$PATH
+```
+In Widows:
+
+Right-click the Computer icon and choose Properties, or in Windows Control Panel, choose System. Choose Advanced system settings. On the Advanced tab, click Environment Variables. Click New to create a new environment variable. Click Edit to modify an existing environment variable. After creating or modifying the environment variable, click Apply and then OK to have the change take effect.
+
 * Build and launch android app by executing the following from the root of the project
     ```
     react-native run-android --variant=gvrDebug
