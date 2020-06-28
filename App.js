@@ -25,7 +25,7 @@ var createReactClass = require('create-react-class');
 /*
  * TODO: Add your API key below!!
  */
-var API_KEY = "blue-water-4646";
+var API_KEY = "<YOUR_API_KEY_HERE>";
 
 var viroApiKey = "5ECFE036-0FFF-47A8-9895-0EB230B58245";
 
