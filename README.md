@@ -38,7 +38,7 @@ Right-click the Computer icon and choose Properties, or in Windows Control Panel
 ## Learn more
 Refer to our [documentation](https://docs.echoar.xyz/react-native/) to learn more about how to use React Native and echoAR.
 
-Refer to Viro's [documentation](https://docs.viromedia.com/docs/) to learn more about how to use Viro. **_WARNING: the Viro library is now open-sourced and not longer maintained by Viro Media._**
+Refer to Viro's [documentation](https://docs.viromedia.com/docs/) to learn more about how to use Viro. **_WARNING: the Viro library is now open-sourced and no longer maintained by Viro Media._**
 
 ## Support
 Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE).
